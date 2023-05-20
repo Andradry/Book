@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&family=Raleway:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&family=Raleway:ital,wght@1,900&family=Sarabun:wght@500&display=swap');
+
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {background: black;
+  
+}
+
+.image {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.image img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+
+
+ .texto {
+      opacity: 0;
+      transition: opacity 1s;
+    }
+.aud{text-align:center}
+
+    .audio-button {
+      background-color: blue;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    h1{font-size: 50px;
+      padding-left: 20px;
+       padding-bottom: 30px;
+      color:white;
+      font-family: 'Playfair Display', serif;
+      font-family: 'Raleway', sans-serif;
+    
+       }
+    
+    
+    #a1{ text-align: center;
+      padding-bottom: 3px;
+      color:white;
+      font-size:30px;
+      font-family: 'Playfair Display', serif;font-family: 'Raleway', sans-serif;font-family: 'Sarabun', sans-serif;
+    }
+    
+
